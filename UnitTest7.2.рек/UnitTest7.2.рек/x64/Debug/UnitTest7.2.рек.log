@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest7.2.рек.cpp
+     Creating library C:\Users\Користувач\source\repos\UnitTest7.2.рек\x64\Debug\UnitTest7.2.рек.lib and object C:\Users\Користувач\source\repos\UnitTest7.2.рек\x64\Debug\UnitTest7.2.рек.exp
+LINK : warning LNK4232: name UnitTest7.2.рек.dll contains non-ASCII characters, DLL may not load on system with ANSI codepage other than 1251
+  UnitTest7.2.рек.vcxproj -> C:\Users\Користувач\source\repos\UnitTest7.2.рек\x64\Debug\UnitTest7.2.рек.dll
